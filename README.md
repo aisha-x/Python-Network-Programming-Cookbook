@@ -2,7 +2,7 @@
 
 #About this repository
 -------------------------------------------
-This repository contains scripts I have learned and practiced from the book => [Python Network Programming CookBook](https://www.packtpub.com/en-us/product/python-network-programming-cookbook-9781786463999) by Pradeeban Kathiravelu, and Dr. M. O. Faruque Sarker
+This repository contains scripts I have learned and practiced from this book => [Python Network Programming CookBook](https://www.packtpub.com/en-us/product/python-network-programming-cookbook-9781786463999) by Pradeeban Kathiravelu, and Dr. M. O. Faruque Sarker
 
 
 #Modifications
