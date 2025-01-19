@@ -24,7 +24,7 @@ here an example, where I used the default rules, then used a browser to reach go
 once I started the monitoring, the logs logged into the firewall_log.txt
 
 
-![Screenshot_2025-01-19_13-03-26](https://github.com/user-attachments/assets/7713a7b8-ac16-4a47-aa96-f96ecc98debf)
+![Screenshot_2025-01-19_13-03-26](https://github.com/user-attachments/assets/f6f46e66-999c-4989-b73c-709b5ddb44d5)
 
 
 
