@@ -1,4 +1,4 @@
-# Exercise-1. created by @aisha-x
+# Exercise-1. 
 # Client and server communicating with each other
 
 
