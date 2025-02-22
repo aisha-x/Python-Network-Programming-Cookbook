@@ -1,4 +1,4 @@
-#this example is not from the book
+
 
 '''
 this code will do one of the following:

@@ -42,7 +42,7 @@ s.ioctl(socket.SIO_RCVALL, socket.RCVALL_OFF)
 
 '''
 
-Note: if you want to execute the code you need to exit the app and change the property of the app you use, 
+Note: if you want to execute the code in windows environment you need to exit the app and change the property of the app you use, 
 and enable "run as administrative privilege" then enter and execute it. 
 it is recommended that you disable the administrative privilege once you have done.
 '''
