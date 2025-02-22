@@ -12,7 +12,7 @@ other website, once the rules matched, the logs will be logged in firewall_log.t
 
 here an example, where I used the default rules, then used a browser to reach google.com
 
-![test-1.png](../../../../../Pictures/test-1.png)
+![test-1.png](../../../../Pictures/test-1.png)
 
 
 
@@ -21,4 +21,4 @@ here an example, where I used the default rules, then used a browser to reach go
 
 once I started the monitoring, the logs logged into the firewall_log.txt
 
-![Screenshot_2025-01-19_11_30_59.png](../../../../../Pictures/Screenshot_2025-01-19_11_30_59.png)
+![Screenshot_2025-01-19_11_30_59.png](../../../../Pictures/Screenshot_2025-01-19_11_30_59.png)
