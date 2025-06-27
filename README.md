@@ -1,19 +1,18 @@
 # Python Network Programming Cookbook Second Edition 
 
 # About this repository
--------------------------------------------
+
 This repository contains scripts I have learned and practiced from this book => [Python Network Programming CookBook](https://www.packtpub.com/en-us/product/python-network-programming-cookbook-9781786463999) by Pradeeban Kathiravelu, and Dr. M. O. Faruque Sarker
 
 
 # Modifications
-----------------------------------------------
+
 the original examples from the book serve as a foundation, and any changes I made are for educational and personal practice purposes.
 
 
 
 
-#About this Book:
-------------------------------------------------------------------------------------------------------------------------------
+# About this Book:
 
  This book is an exploratory guide to network programming in Python. It has touched a
  wide range of networking protocols such as TCP/UDP, HTTP/HTTPS, FTP, SMTP, POP3,
@@ -26,7 +25,7 @@ the original examples from the book serve as a foundation, and any changes I mad
  
 
 # What this book covers:
-----------------------------------------------------------------------------------------------------------------------------------------
+
  - Chapter 1: Sockets, IPv4, and SimpleClient/Server Programming
  - Chapter 2: Multiplexing Socket I/O for Better Performance
  - Chapter 3: IPv6, Unix Domain Sockets, and Network Interfaces
@@ -45,7 +44,7 @@ the original examples from the book serve as a foundation, and any changes I mad
 
 
 # What you need for this book:
---------------------------------------------------------------------
+
 
  You need a working PC or laptop, preferably with a modern Linux operating system. The
  installation instructions are written and tested on Ubuntu 16.04 LTS and would work on
@@ -70,7 +69,7 @@ the original examples from the book serve as a foundation, and any changes I mad
 
 
 # Who this book is for
-----------------------------------------------------------------
+
  If you are a network programmer, system/network administrator, or a web application
  developer, this book is ideal for you. You should have a basic familiarity with the Python
  programming language and TCP/IP networking concepts. However, if you are a novice,
