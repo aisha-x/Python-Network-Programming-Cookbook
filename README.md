@@ -1,11 +1,11 @@
 # Python Network Programming Cookbook Second Edition 
 
-#About this repository
+# About this repository
 -------------------------------------------
 This repository contains scripts I have learned and practiced from this book => [Python Network Programming CookBook](https://www.packtpub.com/en-us/product/python-network-programming-cookbook-9781786463999) by Pradeeban Kathiravelu, and Dr. M. O. Faruque Sarker
 
 
-#Modifications
+# Modifications
 ----------------------------------------------
 the original examples from the book serve as a foundation, and any changes I made are for educational and personal practice purposes.
 
@@ -25,7 +25,7 @@ the original examples from the book serve as a foundation, and any changes I mad
  less theory, but it is packed with practical materials.
  
 
-#What this book covers:
+# What this book covers:
 ----------------------------------------------------------------------------------------------------------------------------------------
  - Chapter 1: Sockets, IPv4, and SimpleClient/Server Programming
  - Chapter 2: Multiplexing Socket I/O for Better Performance
@@ -44,7 +44,7 @@ the original examples from the book serve as a foundation, and any changes I mad
 
 
 
-#What you need for this book:
+# What you need for this book:
 --------------------------------------------------------------------
 
  You need a working PC or laptop, preferably with a modern Linux operating system. The
@@ -69,7 +69,7 @@ the original examples from the book serve as a foundation, and any changes I mad
 
 
 
-#Who this book is for
+# Who this book is for
 ----------------------------------------------------------------
  If you are a network programmer, system/network administrator, or a web application
  developer, this book is ideal for you. You should have a basic familiarity with the Python
